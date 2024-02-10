@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajveer Mahida</h1>
 <h3 align="center">A Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajveer-mahida" alt="rajveer-mahida" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mr_rajveersinh" target="blank"><img src="https://img.shields.io/twitter/follow/mr_rajveersinh?logo=twitter&style=for-the-badge" alt="mr_rajveersinh" /></a> </p>
 
 - 💬 Ask me about **React**
