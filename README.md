@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/5757/5757045.png"  height="200"> </img>
 <h1>Hi 👋, I'm Rajveer</h1>
 <strong> | A FrontEnd Developer 👨🏻‍💻 |</strong>
 </div>
